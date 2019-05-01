@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c39a94f593f34de4aa9d5eceef27b5d0, type: 3}
+  m_Name: Demo
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_isLock: 0
+    m_name: LIGHY_POP
+    m_comment: "\u30C7\u30D5\u30A9\u30EB\u30C8"
+    m_fontAsset: {fileID: 11400000, guid: fbf7f5fec09c2064d8d304c85ee0c5fe, type: 2}
+    m_material: {fileID: 21701472704645968, guid: fbf7f5fec09c2064d8d304c85ee0c5fe,
+      type: 2}
+    m_fontStyles: 0
+    m_isApplyFontSize: 0
+    m_fontSize: 0
+    m_color: {r: 1, g: 1, b: 0, a: 1}
+  - m_isLock: 0
+    m_name: LIGHY_POP_OUTLINE
+    m_comment: "\u30A2\u30A6\u30C8\u30E9\u30A4\u30F3"
+    m_fontAsset: {fileID: 11400000, guid: fbf7f5fec09c2064d8d304c85ee0c5fe, type: 2}
+    m_material: {fileID: 2100000, guid: 8caa3840081a176438b647a7b233e44c, type: 2}
+    m_fontStyles: 1
+    m_isApplyFontSize: 1
+    m_fontSize: 36
+    m_color: {r: 1, g: 0, b: 0, a: 1}
+  - m_isLock: 0
+    m_name: LIGHY_POP_SHADOW
+    m_comment: "\u5F71"
+    m_fontAsset: {fileID: 11400000, guid: fbf7f5fec09c2064d8d304c85ee0c5fe, type: 2}
+    m_material: {fileID: 2100000, guid: 1425ed0adb34997458ad699750b9d29b, type: 2}
+    m_fontStyles: 2
+    m_isApplyFontSize: 1
+    m_fontSize: 44
+    m_color: {r: 0, g: 0.5019608, b: 1, a: 1}
+  - m_isLock: 0
+    m_name: LIGHY_POP_GLOW
+    m_comment: "\u30B0\u30ED\u30FC"
+    m_fontAsset: {fileID: 11400000, guid: fbf7f5fec09c2064d8d304c85ee0c5fe, type: 2}
+    m_material: {fileID: 2100000, guid: 305781488384e8c4d8849a395f0303f8, type: 2}
+    m_fontStyles: 4
+    m_isApplyFontSize: 1
+    m_fontSize: 44
+    m_color: {r: 0, g: 0.5019608, b: 0, a: 1}
